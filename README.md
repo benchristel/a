@@ -47,6 +47,15 @@ and Git-based situations:
   don't use worktrees)
 - The checked-out branch persists across reboots.
 
+## Tutorial
+
+To create a new drive, run `create-drive /path/to/drive`.
+
+If you plan to store large files, you will want to install
+git-lfs via `brew install git-lfs` or the equivalent for
+your platform. Then run `git lfs track "*.zip"` or whatever
+to get git-lfs to track your large files.
+
 ## Drawbacks
 
 You might think that putting all of this in Git makes it
