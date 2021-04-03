@@ -1,0 +1,75 @@
+## Thoughts about constructed language and culture
+
+2021-04-03:
+
+What's stopping me from making a language?
+
+I want to make *just one* language that somehow covers the
+whole aesthetic gamut; I actually don't think this is
+possible.
+
+I might be better off making several languages.
+
+I am usually unsatisfied with the first example sentences I
+write in a language and I don't know how to make them
+better. They always seem clunky and not naturalistic.
+
+Possible solution: use a wider variety of source texts to
+translate. I tend to translate boring, clunky sentences.
+
+I don't have fun with the part of language creation that's
+supposed to be fun: making up words. I don't like the words
+I create. But I feel I have to commit to them because I know
+that if I change them later I'll have to rewrite the grammar
+and all the examples.
+
+One way I've solved this is to just import Sindarin vocab,
+but that only works for languages with a P-Celtic aesthetic.
+
+Maybe I should try just sitting down with the Lexipedia,
+and translating each of the concepts in frequency order.
+
+I feel pressure to be "original" but don't actually want to
+put in the effort to learn a whole new way of thinking. I
+want to be fluent in a language that's meaningfully
+different from English, but I'm not sure what "meaningfully"
+means in this context.
+
+At other times I think it doesn't really matter what I
+create; there's no way I could *possibly* create something
+as stultifying and banal as modern English.
+
+I feel pressure to create "logical" grammar structures
+because I think they'll be easier to learn and understand.
+But then I get frustrated at the ambiguities and the
+ugliness involved in resolving them completely.
+
+I should remember that all human languages are ambiguous in
+certain ways and use various disambiguation strategies for
+the things that are most likely to be misunderstood.
+Everyone seems to be fine with this. Humans are pretty good
+at dealing with a certain level of ambiguity without even
+noticing it.
+
+If my goal is ease of learning, tolerating ambiguity is
+actually a good strategy. If it's ease of
+understanding--same. Humans don't actually parse like
+machines do. They seem to group words into the phrases that
+seem most probable, bottom-up (much like my first Lembic
+parser, incidentally) and only backtrack if that leads to a
+parsing error. Also, it seems like a full parse is not
+really necessary for understanding; a bag of words is often
+sufficient to convey meaning in context; the ability to
+create phrases just increases the level of complexity of the
+things you can put in the bag.
+
+If I'm going to create several languages, what would they be?
+
+- P-Celtic
+- Q-Celtic
+- Finnish / Greenlandic
+- Old English / Gothic
+- Latin?
+- Nahuatl
+
+---

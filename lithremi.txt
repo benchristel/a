@@ -1,0 +1,106 @@
+# Niëldanen
+
+Niëldanen is a language.
+
+## Phonaesthetics
+
+- Not too many consonant clusters; the types of clusters
+that can exist are restricted.
+
+- Many coronal consonants.
+
+- Mostly voiceless consonants. Maybe voiced stops can only
+exist in clusters, like in Quenya.
+
+- Simple 5-vowel system. Diphthongs ai, ei, ae, maybe au,
+oi, ui?
+
+- Vowel clusters are common: cual, throen, niel, caiir
+daier, maiur (note that i between two other vowels can be
+abbreviated as a diaeresis in formats that allow it: caïr,
+daër, maür.
+
+## Phonology
+
+The phonology is basically that of English--or rather,
+"standard average fantasy european" languages by
+English-speaking authors. The vowels are the five cardinal
+vowels.
+
+This is one area where I just don't see the point of being
+creative. If you can't stand boring phonologies you can run
+Nieldanen through whatever sound change rules you want. No
+one's going to stop you.
+
+## Orthography
+
+/I/ and /j/ are both spelled y. This isn't ambiguous because
+/I/ can't form diphthongs.
+
+/k/ is spelled k before i or e, and c elsewhere.
+
+/N/ is spelled ng at the end of a word. Elsewhere, ng is
+pronounced /Ng/.
+
+One rather odd thing: the diaeresis marks palatalization of
+the previous sound. So sï is pronounced /Si/, and cü is
+pronounced /tSu/.
+
+picacü = "pikachu"
+sÿlyng = "shilling"
+
+## Phonotactics
+
+Allowed syllable-final consonants are n, s, l, and r.
+
+## Stress
+
+## Syntax
+
+Basic sentence structure is copula-subject-predicate.  If
+the subject is a pronoun, it is represented as an inflection
+of the copula.
+
+Lexical verbs and adjectives (predicates) are glossed as
+participles.
+
+```
+COP-1SG hating boat-PL
+I hate boats.
+```
+
+The copula is inflected for tense and mood. Aspect is
+expressed with auxiliaries, or with inflections on the
+predicate. (I'm still not sure how exactly this should work.
+Maybe tense inflections should go on the predicate?)
+
+```
+COP-PAST-1SG PERF-eating rabbit over-night
+I'd eaten a rabbit the previous day.
+```
+
+Topics are fronted.
+
+The subjects of infinitives use the possessive inflection:
+
+```
+Ennia neir lithroen nin lijimal
+COP-PAST-3SG wanting NOMINAL-bringing 1SG.POSS DEF pickaxe
+They wanted me to bring the pickaxe.
+```
+
+The infinitive is also used for counterfactuals, where
+Romance languages tend to use the conditional and
+subjunctive:
+
+```
+va liye nin baroca, liye nin baroca lawsair
+if NOMINAL-COP 1SG.POSS bear, NOMINAL-COP 1SG.POSS bear speaking
+If I were a bear, I'd be a talking bear.
+```
+
+## Metaphor
+
+Time flows upwards; the future is below us and the past is
+above. When drawing a timeline, earlier events are placed at
+the top and later events at the bottom.
