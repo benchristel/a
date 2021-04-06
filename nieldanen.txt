@@ -1,0 +1,210 @@
+# Niëldanen
+
+Niëldanen is a language.
+
+## Phonaesthetics
+
+- Not too many consonant clusters; the types of clusters
+that can exist are restricted.
+
+- Many coronal consonants.
+
+- Mostly voiceless consonants. Maybe voiced stops can only
+exist in clusters, like in Quenya.
+
+- Simple 5-vowel system. Diphthongs ai, ei, ae, maybe au,
+oi, ui?
+
+- Vowel clusters are common: cual, throen, niel, caiir
+daier, maiur (note that i between two other vowels can be
+abbreviated as a diaeresis in formats that allow it: caïr,
+daër, maür.
+
+## Phonology (X-SAMPA)
+
+|       | Labial  | Coronal | Dorsal |
+| ----- | ------- | ------- | ------ |
+| Nasal | m       | n       | N      |
+| Stop  | p b     | t d     | k g    |
+| Fric. | f v     | T s     | S      |
+| Affr. |         | ts      | tS     |
+| Appr. | w       | l r     | j      |
+
+Vowels
+
+|      | Front | Central | Back  |
+| ---- | ----- | ------- | ----- |
+| High | i     | I       | u     |
+| Low  | e     | a       | o     |
+
+## Orthography
+
+/I/ and /j/ are both spelled y. This isn't ambiguous because
+/I/ can't form diphthongs.
+
+/k/ is spelled k before i or e, and c elsewhere.
+
+/N/ is spelled ng at the end of a word. Elsewhere, ng is
+pronounced /Ng/.
+
+One rather odd thing: the diaeresis marks palatalization of
+the previous sound. So sï is pronounced /Si/, and cü is
+pronounced /tSu/.
+
+picacü = "pikachu"
+sÿlyng = "shilling"
+
+## Stress
+
+In two-syllable words, stress falls on the last vowel that
+has a consonant after it.
+
+In words of three or more syllables, stress falls on the
+second-to-last vowel if that is a diphthong or is followed
+by two consonants, or on the third-to-last vowel otherwise.
+
+## Morphology
+
+### Nouns
+
+The plural marker is -en after a consonant, -ven after o or
+u, and -n after another vowel.
+
+To make a noun definite, prefix el-. The indefinite prefix
+is a-; it is usually dropped unless it's being used as a
+nominalizer.
+
+The genitive is formed by prefixing o-, or ol- for definite.
+
+The articles nominalize predicates when applied:
+
+- naër "dreaming"
+- anaër "a dream"
+- elnaër "the dream"
+- onaër "of a dream"
+- olnaër "of the dream"
+
+Personal pronouns:
+
+Subject (only used for emphasis; use inflections on the
+copula instead)
+
+Person        | Singular | Plural
+------------- | -------- | ------
+1st Exclusive | ni       | vi
+1st Inclusive | -        | elu
+2nd Familiar  | kel      | -
+2nd Regular   | tel      | telen
+3rd Proximal  | ri       | dri
+3rd Distal    | sï       | tsï
+
+There are 3rd person proximal and distal pronouns, but I
+don't know what they are yet.
+
+Object:
+
+Person        | Singular | Plural
+------------- | -------- | ------
+1st Exclusive | anim     | avin
+1st Inclusive | -        | alu
+2nd Familiar  | akel     | -
+2nd Regular   | athel    | atheln
+
+Possessive Prefixes:
+
+Person        | Singular | Plural
+------------- | -------- | ------
+1st Exclusive | ny       | vy
+1st Inclusive | -        | ly
+2nd Familiar  | ky       | -
+2nd Regular   | ty       | ty
+3rd Proximal  | ry       | dry
+3rd Distal    | sÿ       | tsÿ
+
+> drynaëren "their dreams"
+
+The -y of these prefixes is dropped when the possessed noun
+begins in a vowel.
+
+> n'aras "my deer"
+
+Note that the palatalization is kept when dropping a vowel
+of a third-person distal affix:
+
+> ts'äras "their deer"
+
+There is also a "general" possessive prefix y-.  This
+doesn't imply any specific person or number; the meaning is
+left up to context.
+
+> ynaër "my dream"
+
+A noun can be made into a predicate (adjective) by suffixing
+-ve.
+
+### Verbs
+
+Gerunds are formed by suffixing -(e)th or -u. The -eth
+suffix implies a general concept, while -u implies a
+specific action.
+
+## Syntax
+
+Basic sentence structure is subject-copula-predicate.  If
+the subject is a pronoun, it is represented as an inflection
+of the copula.
+
+Transitive predicates are followed by their objects.
+
+Lexical verbs and adjectives (predicates) are glossed as
+participles.
+
+```
+Amin toth loroven
+COP-1SG hating boat-PL
+I hate boats.
+```
+
+The copula is inflected for tense and mood. Aspect is
+expressed with auxiliaries, or with inflections on the
+predicate. (I'm still not sure how exactly this should work.
+Maybe tense inflections should go on the predicate?)
+
+```
+COP-PAST-1SG PERF-eating rabbit over-night
+I'd eaten a rabbit the previous day.
+```
+
+Topics are fronted.
+
+The subjects of infinitives use the possessive inflection:
+
+```
+Ennia neir nythroen eljimal
+COP-PAST-3SG wanting 1SG.POSS-bringing DEF-pickaxe
+They wanted me to bring the pickaxe.
+```
+
+The infinitive is also used for counterfactuals, where
+Romance languages tend to use the conditional and
+subjunctive:
+
+```
+if NOMINAL-COP 1SG.POSS bear, NOMINAL-COP 1SG.POSS bear speaking
+If I were a bear, I'd be a talking bear.
+```
+
+### Questions
+
+Yes/no questions are formed by adding a particle _ma_ to the
+beginning of the sentence. If a specific constituent is
+being questioned, _ma_ is placed after that constituent.
+
+Content questions are formed by replacing the questioned
+element with _man_ "what, who" or _manwe_ "how".
+
+## Metaphor
+
+Time flows upwards; the future is below us and the past is
+above. When drawing a timeline, earlier events are placed at
+the top and later events at the bottom.

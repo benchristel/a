@@ -1,0 +1,22 @@
+T=tdlrsþnn
+C=kgpbfvmñ
+E=dlrrsþnnn
+F=aei
+B=ouy
+þ|th
+ñ|ng
+TF
+TF
+TF
+TFE
+CF
+CFE
+TB
+TB
+TBE
+CBE
+
+Settings:
+slow syllable dropoff=yes
+dropoff=equiprobable
+monosyllables=less frequent

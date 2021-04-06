@@ -1,0 +1,37 @@
+==========
+NIELDANEN LEXICON
+
+This is a file in the Verse Format. This first record
+describes the file.  The second record is a CSV with a
+header row that uses the pipe character | as a delimiter.
+
+PART OF SPEECH ABBREVIATIONS
+
+- n: noun
+- pi: predicate (intransitive). Often these are translated to English as adjectives.
+- pt: predicate (transitive). Often correspond to prepositions in English.
+- affix: self-explanatory
+
+The fourth column of the CSV gives the ancient root underlying a word.
+
+==========
+vel
+in
+ir
+el
+-im|affix|plural human
+-en|affix|collection of X
+dath|n|word|DAKTA
+nara|pi|dream
+naru|n|dream
+data|pi|speak|DAKTA
+danen|n|speech, language, tongue. Related to _data_ "speak"|DAKTA
+daër|pi|great, large, big
+caïr|n|light
+niël|n|forest
+keluve|n|earth, the world
+raun|n|copper, red metal
+daith|n|king
+-dal|affix|passive voice
+-ni|affix|passive voice
+
