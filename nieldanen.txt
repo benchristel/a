@@ -68,21 +68,25 @@ by two consonants, or on the third-to-last vowel otherwise.
 ### Nouns
 
 The plural marker is -en after a consonant, -ven after o or
-u, and -n after another vowel.
+u, and -n after another vowel. The singular suffix is -(o)s;
+it is usually omitted except when nominalizing a verb.
 
-To make a noun definite, prefix el-. The indefinite prefix
-is a-; it is usually dropped unless it's being used as a
-nominalizer.
+To make a noun definite, prefix el-.
 
-The genitive is formed by prefixing o-, or ol- for definite.
+The genitive is formed by preceding the word with the
+particle o.
 
-The articles nominalize predicates when applied:
+The articles and particles nominalize predicates when applied:
 
 - naër "dreaming"
-- anaër "a dream"
-- elnaër "the dream"
-- onaër "of a dream"
-- olnaër "of the dream"
+- naëros "to dream"
+- elnaër(os) "the dreaming"
+- o naër(os) "of dreaming"
+- o elnaër(os) "of the dreaming"
+
+The -en plural suffix always replaces -os:
+
+> elnaëren "the dreamings" (not ~~elnaërosen~~)
 
 Personal pronouns:
 
@@ -97,9 +101,6 @@ Person        | Singular | Plural
 2nd Regular   | tel      | telen
 3rd Proximal  | ri       | dri
 3rd Distal    | sï       | tsï
-
-There are 3rd person proximal and distal pronouns, but I
-don't know what they are yet.
 
 Object:
 
@@ -121,6 +122,10 @@ Person        | Singular | Plural
 3rd Proximal  | ry       | dry
 3rd Distal    | sÿ       | tsÿ
 
+Possessive prefixes allow nominalized verbs to drop
+the -os suffix.
+
+> kynaër(os) "your dream"
 > drynaëren "their dreams"
 
 The -y of these prefixes is dropped when the possessed noun
@@ -144,6 +149,62 @@ A noun can be made into a predicate (adjective) by suffixing
 
 ### Verbs
 
+The _copula_ is the element of the sentence that inflects
+for person, number, and tense. It has no meaning on its own,
+though it can be paraphrased "is" or "are".
+
+```
+Eön naër ve loroven
+Eön     naër  ve    loro-ven
+1SG.COP dream about boat-PL
+I dream about boats
+```
+
+The predicate following a copula need not be a "verb" in the
+English sense. It can be a preposition-like word.
+Prepositions and verbs are members of the same class in
+Nieldanen.
+
+```
+Eön ve loro
+1SG.COP on boat
+I am on a boat
+```
+
+The word order of a sentence is usually
+subject-copula-verb-object. But when the subject is a
+pronoun, it is usually omitted. The copula is inflected for
+the person and number of the subject, so the pronoun is
+redundant.
+
+Present tense:
+
+             | Singular | Plural |
+------------ | -------- | ------ |
+1st Excl.    | en       | aev    |
+1st Incl.    | -        | ael    |
+2nd Familiar | ec       | -      |
+2nd Regular  | eth      | aeth   |
+3rd Proximal | e        | ae     |
+3rd Distal   | es       | aes    |
+
+Past tense:
+
+             | Singular | Plural |
+------------ | -------- | ------ |
+1st Excl.    | eön      | eäv    |
+1st Incl.    | -        | eäl    |
+2nd Familiar | eöc      | -      |
+2nd Regular  | eöth     | eäth   |
+3rd Proximal | eö       | eä     |
+3rd Distal   | eös      | eäs    |
+
+
+Consider: erav, eral, etc. for plurals?
+
+Eav tothran o loroven
+
+
 Gerunds are formed by suffixing -(e)th or -u. The -eth
 suffix implies a general concept, while -u implies a
 specific action.
@@ -159,10 +220,23 @@ Transitive predicates are followed by their objects.
 Lexical verbs and adjectives (predicates) are glossed as
 participles.
 
+The passive is formed like so:
+
 ```
-Amin toth loroven
-COP-1SG hating boat-PL
+En tothra o loroven
+COP.1SG disgust-PAT GEN boat-PL
+I am a disgustee of boats
 I hate boats.
+```
+
+Since the passive "verb" is actually nominalized with -ra
+(which functions similarly to the suffix -ee in English,
+e.g. "employee"), it must agree in number with the subject:
+
+```
+Aev tothran o loroven
+COP.1PL.EXCL disgust-PAT-PL GEN boat-PL
+We hate boats.
 ```
 
 The copula is inflected for tense and mood. Aspect is
@@ -171,7 +245,8 @@ predicate. (I'm still not sure how exactly this should work.
 Maybe tense inflections should go on the predicate?)
 
 ```
-COP-PAST-1SG PERF-eating rabbit over-night
+Eönai girannen fienai veldu
+COP.1SG-PAST eat-PERF rabbit over-night
 I'd eaten a rabbit the previous day.
 ```
 
@@ -181,7 +256,7 @@ The subjects of infinitives use the possessive inflection:
 
 ```
 Ennia neir nythroen eljimal
-COP-PAST-3SG wanting 1SG.POSS-bringing DEF-pickaxe
+COP.PAST.3SG wanting 1SG.POSS-bringing DEF-pickaxe
 They wanted me to bring the pickaxe.
 ```
 
