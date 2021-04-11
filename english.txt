@@ -1,0 +1,191 @@
+# Aeingich
+
+Aeingich is a language spoken by the _Aeingra_ or Aeings,
+inhabitants of an island called Aeingland off the western
+coast of Europe.
+
+## Phonology
+
+## Spelling
+
+In a syllable coda consisting of a single vowel and a
+consonant, the vowel is pronounced short:
+
+- wit /wIt/
+- lyk /l@k/
+- tuk /tUk/
+- lot /lOt/
+- ken /kEn/
+- kan /k{n/
+
+In a syllable that does not end in a consonant, the vowel
+is pronounced long. An exception is e, which is reduced
+to a schwa at the end of a word.
+
+- hi /hi/
+- ty /tI/
+- nu /nu/
+- lote /lot@/
+- dene /den@/
+- maro /maro/
+
+## Phonological Processes
+
+### Vowel Strengthening
+
+Vowel strengthening turns a vowel into a diphthong:
+
+- i -> ei
+- y -> ei
+- u -> iu or ui
+- o -> au
+- e -> ae
+- a -> ae or au
+
+Which diphthong a and u strengthen to is determined
+lexically.
+
+## Nominal Morphology
+
+The plural of nouns is formed by suffixing -ra. This
+causes the following assimilations:
+
+- -tr- -> -r-
+- -dr- -> -r-
+- -sr- -> -r-
+- -nr- -> -ndr-
+- -mr- -> -mbr-
+- -lr- -> -ldr-
+
+The definite article is t'.
+
+> t'bane "the bone"
+
+Agents are formed from verbs with the suffix -syrd.
+This causes the following assimilations and spelling
+changes:
+
+- -ts- -> -z-
+- -ds- -> -z-
+- -rs- -> -z-
+- -ks- -> -x-
+- -ns- -> -nts-
+- -ms- -> -mps-
+- -ngs- -> -nx-
+
+> wit "knowing" -> wizyrd "knower"
+
+> lak "being poor" -> laxyrd "poor person"
+
+Additionally, after a consonant cluster, -syrd shortens
+to -yrd:
+
+> farm "farming" -> farmyrd "farmer"
+
+Some words are formed from a worn-down agentive construction
+in -(s)yr. These tend to be inanimate objects.
+
+> wat "wetting" -> watyr "water"
+
+Gerunds are formed by strengthening the verb's vowel, or
+(for some verbs) appending an -e.
+
+> farm "farming" -> faerm "to farm"
+
+The -e suffix sometimes changes the final vowel of the verb
+stem:
+
+> wit "knowing" -> wise "knowledge"
+
+Habych t'wise "I have known"
+Gannen of me 's t'wise "I've forgotten"
+Eo wit thet "I know that"
+Eo wit thera "I know those"
+Eo na wise "I am knowing"
+Eo kom na t'wise thes "I am learning it / I shall know it"
+Eo'l wise "I will know / I want to know"
+
+## Verbal Morphology
+
+Most verbs don't inflect for tense or person. There is a
+small number of auxiliaries that do inflect.
+
+To Be (present):
+
+|     | Singular | Plural
+| --- | -------- | ------
+| 1st | eo       | eaf
+| 2nd | east     | era
+| 3rd | is       | er
+
+Participle bi, gerund bei
+
+To Be (past):
+
+|     | Singular | Plural
+| --- | -------- | ------
+| 1st | weo      | weaf
+| 2nd | weast    | wera
+| 3rd | wearth   | wear
+
+To Be (past):
+
+|     | Singular | Plural
+| --- | -------- | ------
+| 1st | weo      | weaf
+| 2nd | weast    | wera
+| 3rd | wearth   | wear
+
+To Have (present):
+
+|     | Singular | Plural
+| --- | -------- | ------
+| 1st | habo     | haf
+| 2rd | hast     | hera
+| 3rd | hath     | her
+
+Participle hab, gerund habe
+
+To Have (past):
+
+|     | Singular | Plural
+| --- | -------- | ------
+| 1st | haddo    | haft
+| 2rd | hat      | hata
+| 3rd | had      | har
+
+To Will (present):
+
+|     | Singular | Plural
+| --- | -------- | ------
+| 1st | wille    | wilf
+| 2rd | wilt     | wira
+| 3rd | wilth    | wil
+
+Participle wil, gerund wile
+
+To Will (past):
+
+|     | Singular | Plural
+| --- | -------- | ------
+| 1st | wolde    | wolf
+| 2rd | wolt     | wora
+| 3rd | wold     | wol
+
+Subject pronouns are usually dropped in the first and second
+person.
+
+In the third person, the subject pronouns are:
+
+|         | Singular | Plural
+| ------- | -------- | ------
+| Animate | thae     | thera
+| Inan.   | si       | sira
+
+In conditional statements, the infinitive is used where we
+might use the conditional and subjunctive. The subject
+is placed in genitive case.
+
+Gifn wise thaes, wise theras "if (lit. given) he knows, they
+know"
+
