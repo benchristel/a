@@ -1,0 +1,79 @@
+# Nieldanen Grammar
+
+## Introduction
+
+The term _nieldanen_ literally means "of the forest people",
+but more specifically, it refers to the language spoken in
+the FIXME region of FIXME.
+
+## Phonology
+
+|           | Labial | Coronal | Dorsal | Glottal
+| --------- | ------ | ------- | ------ | -------
+| Nasal     | m      | n       | ng     |
+| Stop      | b      | t d     | c g    |
+| Fricative | f v    | s z     | ch     | h
+| Approx.   | w      |         | y      |
+| Liquid    |        | l r     |        |
+
+
+Vowels are a /A/, e /E/, i /I/, and o /O/.
+
+Diphthongs are ay /aI/, ey /eI/, iy /6I/ and oy /oI/.
+
+Syllable structure is (C)(L)V(C), where L is a liquid or
+approximant.
+A cross-syllable cluster may only form if the first
+consonant is n, m, l, or r (n assimilates to the POA of
+the consonant after it). An epenthetic schwa, spelled y,
+is inserted to break up other clusters.
+
+Additionally, stops cannot occur between vowels. An n or m
+is inserted before any stop that would otherwise be between
+two vowels.
+
+lav + tal -> lavyntal
+ceyr + dov -> ceyrdov
+lang + del -> langyndel
+ef + tri -> efyntri
+
+Vowels may be in hiatus only if the first is i and the
+second is not. Other vowel clusters are broken up with v:
+
+efyntri + ay -> efyntriay
+doro + en -> doroven
+le + en -> leven
+
+This even happens with diphthongs:
+
+efay + en -> efayven
+
+## Morphology
+
+### Nouns
+
+Genitive: -en
+Plural: -ay
+Singular: -a
+Definite: -an
+
+Ordered as follows:
+
+-a/ay -an -en
+
+tyelay "games"
+tyelayven "of games"
+tyela "one game"
+tyelan "of one game"
+tyel "game/games"
+tyelavan "that game"
+tyelen "of a game/games"
+tyelayvanen "of those games"
+
+### Predicates
+
+nel    "being in/at"
+nelda  "concept of being in/at"
+neldal "act of being in/at"
+nelday "acts of being in/at"
+

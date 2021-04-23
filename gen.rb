@@ -35,77 +35,99 @@ V = Alternatives.new(
   Literal.new("e"),
   Literal.new("i"),
   Literal.new("o"),
+)
+
+LongVowel = Alternatives.new(
   Literal.new("a"),
-  Literal.new("e"),
-  Literal.new("i"),
-  Literal.new("o"),
   Literal.new("ay"),
+  Literal.new("e"),
   Literal.new("ey"),
+  Literal.new("i"),
+  Literal.new("iy"),
+  Literal.new("o"),
   Literal.new("oy"),
 )
 
 Initial = Alternatives.new(
-  Literal.new("t"),
-  Literal.new("d"),
-  Literal.new("th"),
-  Literal.new("s"),
-  Literal.new("r"),
-  Literal.new("l"),
-  Literal.new("m"),
-  Literal.new("n"),
-  Literal.new("c"),
-  Literal.new("g"),
   Literal.new("b"),
-  Literal.new("p"),
+  Literal.new("br"),
+  Literal.new("c"),
+  Literal.new("d"),
+  Literal.new("dr"),
+  Literal.new("dw"),
+  Literal.new("dy"),
   Literal.new("f"),
   Literal.new("fl"),
-  Literal.new("ml"),
-  Literal.new("pl"),
-  Literal.new("bl"),
-  Literal.new("dr"),
+  Literal.new("fr"),
+  Literal.new("g"),
+  Literal.new("l"),
+  Literal.new("m"),
+  Literal.new("mr"),
+  Literal.new("n"),
+  Literal.new("nw"),
+  Literal.new("r"),
+  Literal.new("s"),
+  Literal.new("t"),
   Literal.new("tr"),
-  Literal.new("nr"),
-  Literal.new("thr"),
-  Literal.new("h"),
-  Literal.new("w"),
+  Literal.new("tw"),
   Literal.new("ty"),
-  Literal.new("y"),
+  Literal.new("v"),
+  Literal.new("vr"),
 )
 
 Medial = Alternatives.new(
-  Literal.new("t"),
-  Literal.new("d"),
-  Literal.new("th"),
-  Literal.new("s"),
-  Literal.new("r"),
+  Literal.new("dy"),
   Literal.new("l"),
+  Literal.new("ly"),
   Literal.new("m"),
+  Literal.new("mb"),
+  Literal.new("mbr"),
+  Literal.new("my"),
   Literal.new("n"),
-  Literal.new("nt"),
-  Literal.new("nth"),
   Literal.new("nd"),
   Literal.new("ndr"),
-  Literal.new("mbr"),
-  Literal.new("mb"),
-  Literal.new("ny"),
+  Literal.new("ndy"),
+  Literal.new("nt"),
+  Literal.new("ntr"),
   Literal.new("nty"),
+  Literal.new("ny"),
+  Literal.new("r"),
+  Literal.new("ry"),
+  Literal.new("s"),
+  Literal.new("ty"),
 )
 
 Final = Alternatives.new(
-  Literal.new("n"),
-  Literal.new("m"),
-  Literal.new("r"),
   Literal.new("l"),
-  Literal.new(""),
+  Literal.new("n"),
+  Literal.new("r"),
   Literal.new(""),
 )
 
-Root = Alternatives.new(
-  Pattern.new(Initial, V, Medial, V, Final),
+Root = Pattern.new(Initial, V, Final)
+LongRoot = Pattern.new(Initial, LongVowel, Final)
+
+Suffix = Alternatives.new(
+  Literal.new("en"),
+  Literal.new("ay"),
+  Literal.new("ayen"),
+  Literal.new("ve"),
+  Literal.new("ven"),
+  Literal.new("aya"),
 )
 
-def word
-  Root.generate
+Word = Alternatives.new(
+  Pattern.new(Root, LongRoot),
+  Pattern.new(LongRoot),
+  Pattern.new(LongRoot, Suffix),
+  Pattern.new(Root, LongRoot, Suffix),
+)
+
+def root
+  Word.generate.gsub(/[aeiou]([aeiou])/) { |match| match[1] }
 end
 
-20.times { puts word }
+def word
+end
+
+20.times { puts Word.generate }
