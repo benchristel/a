@@ -1,0 +1,21 @@
+frem|being a holy thing to s.o.
+for|doing
+nel|being in
+elv|being of
+ailv|having
+enil|containing
+efrim|venerating
+win|here
+cin|there
+pol|orange
+as|conjunction of identity; "a.k.a."
+
+vel aer pol "I am orange"
+vel aer ailv pol "I have an orange thing"
+vel aer ailv pol as frem "I have an orange, holy thing"
+delwinve,  vel aer ailv pol's frem "Today, I have an orange
+holy thing"
+vel aer ailva "I am a possessor"
+
+
+
