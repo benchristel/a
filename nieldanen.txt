@@ -67,28 +67,25 @@ by two consonants, or on the third-to-last vowel otherwise.
 
 ### Nouns
 
+The
+
+i niel "the forest"
+i nielden "the forests"
+i nieldath "all the forests"
+i canathen "the calls"
+i canad "the call"
+i canad nieldas "the call of (from) the forest"
+Galdor niravas i canad nieldas
+Galdor cu niravas i
+
+Udaer Galdor niras i raith i nieldin
+Not-is Galdor wanting-LOC the path the forest-DAT
+
 The plural marker is -en after a consonant, -ven after o or
 u, and -n after another vowel. The singular suffix is -(o)s;
 it is usually omitted except when nominalizing a verb.
 
-To make a noun definite, prefix el-.
-
-The genitive is formed by preceding the word with the
-particle o.
-
-The articles and particles nominalize predicates when applied:
-
-- naër "dreaming"
-- naëros "to dream"
-- elnaër(os) "the dreaming"
-- o naër(os) "of dreaming"
-- o elnaër(os) "of the dreaming"
-
-The -en plural suffix always replaces -os:
-
-> elnaëren "the dreamings" (not ~~elnaërosen~~)
-
-Personal pronouns:
+### Personal pronouns:
 
 Subject (only used for emphasis; use inflections on the
 copula instead)
