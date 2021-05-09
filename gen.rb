@@ -32,17 +32,24 @@ end
 
 V = Alternatives.new(
   Literal.new("a"),
-  Literal.new("á"),
-  Literal.new("éi"),
-  Literal.new("oa"),
-  Literal.new("o"),
-  Literal.new("u"),
-  Literal.new("eá"),
-  Literal.new("eó"),
+  Literal.new("iá"),
   Literal.new("e"),
+  Literal.new("ë"),
   Literal.new("i"),
-  Literal.new("ióa"),
+  Literal.new("ao"),
+  Literal.new("o"),
+  Literal.new("ió"),
+  Literal.new("u"),
   Literal.new("iú"),
+
+  Literal.new("ai"),
+  Literal.new("ei"),
+  Literal.new("ui"),
+  Literal.new("oe"),
+  Literal.new("iái"),
+  Literal.new("ëi"),
+  Literal.new("iúi"),
+  Literal.new("ióe"),
 )
 
 Initial = Alternatives.new(

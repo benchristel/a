@@ -19,9 +19,9 @@
 | w | w | wj
 
 | Vowel | Broad Spelling | Slender Spelling
-| a     | a  | eá
-| e     | ái | e
-| i     | aí | i
+| a     | a  | iá
+| e     | e  | ë
+| i     | ao | i
 | o     | o  | ió
 | u     | u  | iú
 
