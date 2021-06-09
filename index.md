@@ -32,6 +32,13 @@
   /p/ is a phoneme doesn't mean it has to be used a lot!
 - When in doubt, make the most obvious choice.
 
+## Culture and Metaphor
+
+The future is down; the past is up.
+
+To say "I like this," you'd say _suila ned ener anin_ "this
+thing is like me". Resemblance is affinity.
+
 ## Pronunciation
 
 As in English: **b, d, f, h, k, l, m, n, p, qu, sh, t, v, w, z**
@@ -97,28 +104,33 @@ Words of three or more syllables are stressed on the
 third-to-last syllable unless the second-to-last vowel
 is long, in which case it gets the stress.
 
-## Morphology
+## Noun Phrases
 
-Verbs have the following forms:
+Modifiers (adjectives, prepositional phrases, and relative
+clauses) follow the noun they modify.
 
-Imperative -a
-Gerund     -tas
-Active Participle  -iel
-Passive Participle -ien
-Present            -a
-Past               -nne
-Aorist (present habitual) -ea
-Imperfect (past habitual) -ia
-Future/Conditional        -ave
+i'niel ener "this forest"
+niel o naru "a forest from a vision"
 
-Dwl astaea pen glaer "rain comes every summer"
-Dwl astia pen glaer "rain came (/ would come) every summer"
-Dwl astannë i glaer anta "rain came that summer"
+## Possession
 
-Hypothetical scenarios are described with *davien* "given"
-(a paraphrase for "if") and a gerund:
+There are two possessive forms, indicating different types
+of possession.
 
-"given my being a bear, I will be (future/conditional) a
-talking bear"
+The specialized form, the genitive, is formed with the
+suffix -ir. Genitive nouns are placed after the noun they
+modify. The genitive is used to indicate relationships of
+creation:
 
-Davien ne sintas mejel ni, sinaven mejel vrethiel
+niel Yamair "Yama's forest (Yama grew the forest)"
+
+The other form, the possessive, is used for all other
+relationships. The possessor comes second and gets marked
+with a suffix -o which replaces a final -a.
+
+niel Yamo "a forest of Yama"
+
+
+
+
+
