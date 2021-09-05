@@ -1,0 +1,168 @@
+## Currently Reading
+
+http://learncornishlanguage.co.uk/learn_cornish_language_project_lotr.html
+
+## Words I'm Pretty Sure About
+
+-ewgh : imperative?
+-ys : passive participle, e.g. usys "used"
+Alban : Scotland
+Iwerdhon : Ireland
+a : of (causes soft mutation?) _a vis hedra_ "of october"
+a yll : can, may; _devnydhyoryon a yll skrifa..._ "users may write..."
+a-dro dhe : about, concerning
+an : the (causes soft mutation sometimes, perhaps only on feminine nouns?)
+aral : other (also spelled arall)
+arloedh an bysowyer : lord of the rings
+bardhonieth : poetry
+bras : large; _myns bras_ "a large amount"
+dew : two
+dhe : to/at (causes soft mutation?), also used to express possession
+dre : home? may be mutated from tre
+dre : in? but only indefinite? (c.f. Welsh mewn)
+dynnargh : welcome
+dyski : learn? attested as dhyski
+ef : he?
+erthygel : article, pl. erthyglow
+folen : page? pl. folennow. Also folenn?
+folen dre : home page, also folenn dre
+fondyans : foundation, as in "Fondyans Wikimedia"
+gans : by, with, using (marks the agent in passive constructions, e.g. _gans Kemeneth Wikipedia Kernewek_ "by the Cornish Wikipedia Community") and the instrumental (_gans kevywi a veuredh arbennik_ "with a party of special magnificence")
+gwiasva : website (an wiasva)
+ha/hag : and
+hedhyw : today
+hi : she?
+honan : own (adj)
+kesrosweyth : internet? war an kesrosweyth "on the internet"
+kevren : link (on a webpage); an gevren "the link"
+klyckyewgh war : click on (imperative)
+mar pleg : please
+mes mars : March?
+messach : message, pl. messajys
+mis Genver : January
+mis Me : May
+mis hedra : october (?)
+myns : amount
+na : not? do not? (causes soft mutation?) _na janjyewgh_ "do not change"
+niver : number
+nowyth : new
+omma : here (as an adverb?)
+onan : one
+pennfolen : homepage, index page (lit. "head page", I think). an bennfolen
+person : person; unn berson
+peswar : four; also pajar
+peswardhek : fourteen
+po : or
+rag : to, in order to
+rol : list?
+taklow : things
+tavern : tavern; an tavern "the tavern", but dhe davern "to a tavern"
+unn : one, when used with a noun (might also be just the feminine form?)
+yeth : language
+yma ... ow : there is ... (?)
+yma : here
+ynkressya : increase
+yw : is
+mis Kevardhu : December (?)
+meuredh : magnificence (soft-mutates: _a veuredh_ "of magnificence")
+arbennik : special
+kevywi : party
+yth esa : there was
+tri ugens : sixty (?) = three twenty (or maybe twenty-three?)
+blydhen : year
+stoffys : stuffed (_stoffys gans tresor_ "stuffed with treasure")
+leveris : said?
+moy : more?
+moy es : more than
+es : than
+hanter : half
+avon : river (?)
+daras : door
+fordh : road (f)
+dewdroes : a pair of feet (?)
+ter : tired, weary
+bys : until
+mettyo : meet
+a-vri : larger
+ny : not (negation particle)
+vy : I (first person singular subject, probably mutated from _my_)
+heb : without
+ger : word (mutated from ker?)
+lytherow : letters
+nevra : never (?) Shows double negation: _nevra ny wrug Maylo gorthybi orth lytherow_
+arghans : silver
+loyow : spoons
+yn pell : for a long time
+gansves : hundred?
+pennbloedh : birthday? anniversary?
+gwaytyans : excitement? expectation?
+meur : a lot, much
+meur a : a lot of, many
+keskows : talk
+pur : very
+aneth : wonder
+dre : for (a duration of time); through?
+anwaytys : unexpected <- *(g)waytys expected?
+dehwelans : return (containing a prefix de-?)
+re : marks the perfect?
+dravalyans : travels
+y : his
+krysys : believed
+goth : old, possibly lenited from koth?
+tus : people (probably feminine?); an dus
+pynag : whatever
+bre : hill (f); an vre
+gowfordhow : tunnels
+leun a : full of
+an- : un- (negates a verb, causes soft mutation); e.g. anjanjys _unchanged_
+effeyth orth : effect on
+mes : but
+termyn : time (f)
+i : they
+a leveri : said
+vydh dhe dyli : pay for it??? _Res vydh dhe dyli_ "it will have to be paid for"
+nyns yw: it is not
+genesik : natural
+ahwer a vydh : will come of it
+sywya : trouble??
+bys yn termyn na : so far ("until that time"?)
+bys : by (a time)?
+yn termyn na : then
+ny : not (negates a sentence)
+dheuth : came, had come?
+hel : generous
+boghosek : poor?
+teyluyow : families
+bri : importance?
+kowetha : friend(s?)
+nes : close, next?
+kowetha nes : close friend(s?)
+dhodho : to/at him (used for possession)
+genderow : cousins
+yowynkka : younger
+kottha : eldest
+re ma : these (= "this ?group")
+gwella : favourite
+yowynk : young
+avel : as, in the role of (_avel er_ "as [his] heir")
+a gemmeras : adopted
+dhros : brought
+driga : live, dwell
+dre jons : by chance
+chons : chance?
+mis Gwynngala : September
+mis : month (f? mutates after _a_)
+towlenna : programmer
+ov vy : I am (_XX ov vy_, "I am [my name is] XX")
+a-dhelergh : behind (adj?)
+a-dhelergh dhe : behind (prep?)
+a-dhia : since (time?)
+a-dhiwedhes : late, recent
+a-ji : indoors, inside (adj)
+a-ji dhe : indoors, inside (prep)
+amanyn : butter
+amm : kiss (n)
+amma : kiss (v?), also _abma_
+a-wartha dhe : on top of, (from *gwartha "up, top"?)
+a-wartha : on top (adj)
+lies : many?
